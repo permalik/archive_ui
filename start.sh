@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "archive_ui: removing build..."
+echo "removing build.."
 sudo rm -rf /var/www/tymalik/html/*
 sudo rm -rf /var/www/tymalik/html/.*
 
