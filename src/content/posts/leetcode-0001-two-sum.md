@@ -27,7 +27,7 @@ starting from index `1` until `nums_length - 1`
 **Space:** O(1)
 
 ## Implementation
-**c (Iterative Brute Force)**
+**C (Iterative Brute Force)**
 ```c
 int* two_sum(int* nums, int nums_size, int target, int* return_size);
 
@@ -73,6 +73,28 @@ int main(void) {
     return 0;
 }
 ```
+
+<br />
+
+**Python (Iterative Brute Force)**
+```python
+from typing import List
+
+def main():
+    nums = [3, 8, 2, -12, 24]
+    target = 12
+    solution = Solution().twoSum(nums, target)
+    print(solution)
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[i] == target - nums[j]:
+                    return [i,j]
+        return []
+```
+
 <!--
 
 <br />

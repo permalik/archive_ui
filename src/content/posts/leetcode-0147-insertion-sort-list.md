@@ -45,7 +45,7 @@ A function sorts the linked list, accepting a pointer to the head of the unsorte
 **Space:** O(1)
 
 ## Implementation
-**c (Iterative and Intuitive)**
+**C (Iterative and Intuitive)**
 ```c
 struct ListNode {
     int val;

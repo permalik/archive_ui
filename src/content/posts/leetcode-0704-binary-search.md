@@ -31,7 +31,7 @@ If all iterations complete without returning `mid` as the solution, return `-1`.
 **Space:** O(1)
 
 ### Implementation
-**c (Iterative)**
+**C (Iterative)**
 ```c
 int search(int nums[], int len, int target) {
     int l = 0;
