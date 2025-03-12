@@ -41,31 +41,58 @@ async function repos(): Promise<RepoProps[]> {
 const allRepos: RepoProps[] = await repos();
 ---
 
-<ul>
-    <div class="title">projects</div>
-    {
-        allRepos.map((repo) => (
-            <li>
-                <header>
-                    <small>{repo.Category}</small>
-                    <a href={repo.HTMLURL}>
-                        <h3 class="heading">
-                            {repo.Name.split(`_`).join(` `)}
-                        </h3>
-                    </a>
-                </header>
-                <p class="text_small">{repo.Description}</p>
-                <ul class="topics">
+<div>
+    <ul>
+        <div class="title">projects</div>
+        {
+        allRepos.filter(r => r.Category.toLowerCase() !== "construct").map((repo) => (
+        <li>
+            <header>
+                <small>{repo.Category}</small>
+                <a href={repo.HTMLURL}>
+                    <h3 class="heading">
+                        {repo.Name.split(`_`).join(` `)}
+                    </h3>
+                </a>
+            </header>
+            <p class="text_small">{repo.Description}</p>
+            <ul class="topics">
                 {
                 repo.Topics.map((topic) => (
-                    <li>{topic}</li>
+                <li>{topic}</li>
                 ))
                 }
-                </ul>
-            </li>
+            </ul>
+        </li>
         ))
-    }
-</ul>
+        }
+    </ul>
+    <ul>
+        <div class="title">constructs</div>
+        {
+        allRepos.filter(r => r.Category.toLowerCase() === "construct").map((repo) => (
+        <li>
+            <header>
+                <small>{repo.Category}</small>
+                <a href={repo.HTMLURL}>
+                    <h3 class="heading">
+                        {repo.Name.split(`_`).join(` `)}
+                    </h3>
+                </a>
+            </header>
+            <p class="text_small">{repo.Description}</p>
+            <ul class="topics">
+                {
+                repo.Topics.map((topic) => (
+                <li>{topic}</li>
+                ))
+                }
+            </ul>
+        </li>
+        ))
+        }
+    </ul>
+</div>
 
 <style lang="scss">
     ul {
