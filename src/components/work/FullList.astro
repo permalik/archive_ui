@@ -45,7 +45,7 @@ const allRepos: RepoProps[] = await repos();
     <ul>
         <div class="title">projects</div>
         {
-        allRepos.filter(r => r.Category.toLowerCase() !== "construct").map((repo) => (
+        allRepos.filter(r => r.Category.toLowerCase() !== "sandbox").map((repo) => (
         <li>
             <header>
                 <small>{repo.Category}</small>
@@ -68,9 +68,9 @@ const allRepos: RepoProps[] = await repos();
         }
     </ul>
     <ul>
-        <div class="title">constructs</div>
+        <div class="title">sandboxes</div>
         {
-        allRepos.filter(r => r.Category.toLowerCase() === "construct").map((repo) => (
+        allRepos.filter(r => r.Category.toLowerCase() === "sandbox").map((repo) => (
         <li>
             <header>
                 <small>{repo.Category}</small>
@@ -140,9 +140,10 @@ const allRepos: RepoProps[] = await repos();
         }
     }
     .topics {
-        margin: 0.5rem 0 0;
+            margin: 0.5rem 0 0;
         & li {
             display: inline-block;
+            margin: 0.5rem 0 0;
             padding: 0.25rem 0.5rem;
             font-size: var(--xs-font);
             text-transform: uppercase;
