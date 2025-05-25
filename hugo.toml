@@ -1,0 +1,26 @@
+title = "Ty Malik"
+baseURL = "https://tymalik.me/"
+languageCode = "en-us"
+copyright = "Ty Malik"
+
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[languages.en]
+languageName = "English"
+title = "Ty Malik"
+weight = 1
+
+[params]
+mainSections = ["post"]
+
+[params.footer]
+since = "2019"
+
+[params.dateFormat]
+published = "2006-01-02"
+lastUpdated = "2006-01-02 15:04 CST"
+
+[params.sidebar]
+emoji = "🐦‍🔥"
+subtitle = "silent lifting mind"
