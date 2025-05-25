@@ -1,0 +1,7 @@
+baseURL = 'https://tymalik.me/'
+languageCode = 'en-us'
+title = 'Ty Malik'
+
+[module]
+    [[module.imports]]
+        path = "github.com/hugo-sid/hugo-blog-awesome"
