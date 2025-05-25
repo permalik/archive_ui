@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Ty Malik</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Ty Malik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Ty Malik</copyright>
+        <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h1 id=&#34;hi-im-ty&#34;&gt;Hi. I&amp;rsquo;m Ty.
+&lt;/h1&gt;&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience
+&lt;/h2&gt;&lt;p&gt;In 2019 I began programming with the goal of creating online businesses. I started building with
+WordPress, quickly realized its limitations then learned HTML, JS, CSS, and major JavaScript
+frameworks.&lt;/p&gt;
+&lt;p&gt;In 2022 I was hired as a software engineer at a major political polling firm. Our SaaS platforms
+provided an analytics warehouse, query tooling, high-volume SMS messaging, and mobile voter
+canvassing applications for state and federal campaigns using VueJS, NodeJS, Rust, and React Native.&lt;/p&gt;
+&lt;p&gt;In 2024 I was recruited to work as a devops engineer at an industry-leading healthcare remittance
+processing and reconciliation company. We automated the consolidation of healthcare providers&amp;rsquo;
+data for corporate financial institutions. Our on-premises Linux and Windows infrastructure hosted
+around a hundred applications built with Java and C# and deployed manually or automated with
+scripting or Ansible.&lt;/p&gt;
+&lt;h2 id=&#34;independent-experience&#34;&gt;Independent Experience
+&lt;/h2&gt;&lt;p&gt;In my freetime I enjoy building language processing and system-level programs, desktop
+and web applications, and additions or improvements to my homelab.&lt;/p&gt;
+&lt;p&gt;I concurrently work on a C compiler written in Zig, C++/QT Zettlekasten-inspired note-taking
+application and text editor, Rust operating system, Nix development environments, various
+automation, and integration with local servers and PCs.&lt;/p&gt;
+&lt;h2 id=&#34;foss&#34;&gt;FOSS
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m eager to start contributing on a number of projects but have not as of yet.&lt;/p&gt;
+&lt;h2 id=&#34;academic-experience&#34;&gt;Academic Experience
+&lt;/h2&gt;&lt;p&gt;I am self-teaching Algebra to prepare for Calculus. I am also completing classes with partners of
+Western Governors University, working toward my Bachelor of Science in Computer Science.&lt;/p&gt;
+&lt;h2 id=&#34;personal-hobbies&#34;&gt;Personal Hobbies
+&lt;/h2&gt;&lt;p&gt;I consistently engage in different types of fitness such as yoga, swimming, cycling, calisthenics,
+weight-lifting, and bouldering. I enjoy playing guitar, learning to speak Spanish, and reading
+both fiction and non-fiction.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/page/archives/</link>
+        <pubDate>Wed, 31 Dec 1969 18:33:45 -0600</pubDate>
+        
+        <guid>http://localhost:1313/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

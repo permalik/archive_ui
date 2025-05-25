@@ -6,13 +6,32 @@ copyright = "Ty Malik"
 [[module.imports]]
 path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
+#
+# Languages
+#
 [languages.en]
 languageName = "English"
 title = "Ty Malik"
 weight = 1
 
+#
+# Pagination
+#
+[pagination]
+pagerSize = 3
+
+# [permalinks]
+# post = "/p/:slug/"
+# page = "/:slug/"
+
+#
+# Params
+#
 [params]
 mainSections = ["post"]
+featuredImageField = "image"
+rssFullContent = true
+favicon = "/favicon.ico"
 
 [params.footer]
 since = "2019"
@@ -24,3 +43,61 @@ lastUpdated = "2006-01-02 15:04 CST"
 [params.sidebar]
 emoji = "🐦‍🔥"
 subtitle = "silent lifting mind"
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "phoenix.jpg"
+
+[params.article]
+math = true
+toc = true
+readingTime = true
+
+[[params.widgets.homepage]]
+type = "search"
+
+[[params.widgets.homepage]]
+type = "archives"
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.homepage]]
+type = "categories"
+  [params.widgets.homepage.params]
+  limit = 10
+
+[[params.widgets.homepage]]
+type = "tag-cloud"
+  [params.widgets.homepage.params]
+  limit = 10
+
+#
+# Markup
+#
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNos = true
+lineNoStart = 1
+tabWidth = 2
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = true
+startLevel = 2
+
+#
+# Menu
+#
+[menu]
+main = []
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/permalik/"
+
+  [menu.social.params]
+  icon = "brand-github"

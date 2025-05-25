@@ -1,7 +1,16 @@
 +++
 date = "2025-05-25T16:43:10-05:00"
 draft = false
-title = "Leetcode 0001 Two Sum"
+title = "LeetCode 0001 Two Sum"
+description = "Dynamic Programming"
+categories = [
+    "Programming"
+]
+tags = [
+    "dynamic_programming",
+    "LeetCode",
+    "C"
+]
 +++
 
 ## Iterative Brute Force
@@ -17,8 +26,8 @@ such that they add up to `target`.
 
 |Metrics|Time Complexity|Space Complexity|
 |----------|----|-----|
-|Worst|O(n^2)|O(1)|
-|Average|𝚹(n^2)|𝚹(1)|
+|Worst|O(n²)|O(1)|
+|Average|𝚹(n²)|𝚹(1)|
 |Best|Ω(1)|Ω(1)|
 
 ```c

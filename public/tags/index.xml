@@ -6,6 +6,31 @@
         <description>Recent content in Tags on Ty Malik</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Ty Malik</copyright><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Ty Malik</copyright>
+        <lastBuildDate>Sun, 25 May 2025 16:43:10 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>C</title>
+        <link>http://localhost:1313/tags/c/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/c/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Dynamic_programming</title>
+        <link>http://localhost:1313/tags/dynamic_programming/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/dynamic_programming/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>LeetCode</title>
+        <link>http://localhost:1313/tags/leetcode/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/leetcode/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
