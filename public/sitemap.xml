@@ -2,42 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/c/</loc>
+    <loc>https://tymalik.me/tags/c/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tymalik.me/categories/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynamic_programming/</loc>
+    <loc>https://tymalik.me/tags/dynamic_programming/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/leetcode/</loc>
+    <loc>https://tymalik.me/tags/leetcode/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/leetcode-0001-two-sum/</loc>
+    <loc>https://tymalik.me/post/leetcode-0001-two-sum/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://tymalik.me/post/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/programming/</loc>
+    <loc>https://tymalik.me/categories/programming/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tymalik.me/tags/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tymalik.me/</loc>
     <lastmod>2025-05-25T16:43:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://tymalik.me/page/about/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://tymalik.me/page/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/archives/</loc>
+    <loc>https://tymalik.me/page/archives/</loc>
     <lastmod>1969-12-31T18:33:45-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/search/</loc>
+    <loc>https://tymalik.me/page/links/</loc>
+  </url><url>
+    <loc>https://tymalik.me/page/search/</loc>
   </url>
 </urlset>

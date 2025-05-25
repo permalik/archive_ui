@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Dynamic_programming on Ty Malik</title>
-        <link>http://localhost:1313/tags/dynamic_programming/</link>
+        <link>https://tymalik.me/tags/dynamic_programming/</link>
         <description>Recent content in Dynamic_programming on Ty Malik</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Ty Malik</copyright>
-        <lastBuildDate>Sun, 25 May 2025 16:43:10 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/dynamic_programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 May 2025 16:43:10 -0500</lastBuildDate><atom:link href="https://tymalik.me/tags/dynamic_programming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>LeetCode 0001 Two Sum</title>
-        <link>http://localhost:1313/post/leetcode-0001-two-sum/</link>
+        <link>https://tymalik.me/post/leetcode-0001-two-sum/</link>
         <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
         
-        <guid>http://localhost:1313/post/leetcode-0001-two-sum/</guid>
+        <guid>https://tymalik.me/post/leetcode-0001-two-sum/</guid>
         <description>&lt;h2 id=&#34;iterative-brute-force&#34;&gt;Iterative Brute Force
 &lt;/h2&gt;&lt;h3 id=&#34;summary&#34;&gt;Summary
 &lt;/h3&gt;&lt;p&gt;Given an array of integers &lt;code&gt;nums&lt;/code&gt; and an integer &lt;code&gt;target&lt;/code&gt;, return the indices of the two numbers
