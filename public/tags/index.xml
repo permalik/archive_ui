@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Ty Malik</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on Ty Malik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Ty Malik</copyright>
+        <lastBuildDate>Sun, 25 May 2025 22:32:02 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PreAlgebra</title>
+        <link>http://localhost:1313/tags/prealgebra/</link>
+        <pubDate>Sun, 25 May 2025 22:32:02 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/prealgebra/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>C</title>
+        <link>http://localhost:1313/tags/c/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/c/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DynamicProgramming</title>
+        <link>http://localhost:1313/tags/dynamicprogramming/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/dynamicprogramming/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>LeetCode</title>
+        <link>http://localhost:1313/tags/leetcode/</link>
+        <pubDate>Sun, 25 May 2025 16:43:10 -0500</pubDate>
+        
+        <guid>http://localhost:1313/tags/leetcode/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

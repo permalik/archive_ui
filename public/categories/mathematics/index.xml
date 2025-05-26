@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mathematics on Ty Malik</title>
+        <link>http://localhost:1313/categories/mathematics/</link>
+        <description>Recent content in Mathematics on Ty Malik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Ty Malik</copyright>
+        <lastBuildDate>Sun, 25 May 2025 22:32:02 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/mathematics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Whole Numbers</title>
+        <link>http://localhost:1313/post/whole-numbers/</link>
+        <pubDate>Sun, 25 May 2025 22:32:02 -0500</pubDate>
+        
+        <guid>http://localhost:1313/post/whole-numbers/</guid>
+        <description>&lt;h2 id=&#34;terms&#34;&gt;Terms
+&lt;/h2&gt;&lt;h3 id=&#34;fundamental-theorem-of-arithmetic&#34;&gt;Fundamental Theorem of Arithmetic
+&lt;/h3&gt;&lt;p&gt;The fundamental theorem of arithmetic states that every positive integer (save the number 1) can
+be represented in exactly one way apart from rearrangement as a product of one or more primes
+(Hardy and Wright 1979, pp. 2-3).&lt;/p&gt;
+&lt;p&gt;This theorem is also called the unique factorization theorem. The fundamental theorem of
+arithmetic is a corollary of the first of Euclid&amp;rsquo;s theorems (Hardy and Wright 1979).&lt;/p&gt;
+&lt;h6 id=&#34;references&#34;&gt;REFERENCES
+&lt;/h6&gt;&lt;p&gt;Hardy, G. H. and Wright, E. M. &amp;ldquo;Statement of the Fundamental Theorem of Arithmetic,&amp;rdquo; &amp;ldquo;Proof of
+the Fundamental Theorem of Arithmetic,&amp;rdquo; and &amp;ldquo;Another Proof of the Fundamental Theorem of
+Arithmetic.&amp;rdquo; §1.3, 2.10 and 2.11 in &lt;em&gt;An Introduction to the Theory of Numbers&lt;/em&gt;, 5th ed. Oxford,
+England: Clarendon Press, pp. 3 and 21, 1979.&lt;/p&gt;
+&lt;p&gt;Weisstein, Eric W. &amp;ldquo;Fundamental Theorem of Arithmetic.&amp;rdquo; From MathWorld&amp;ndash;A Wolfram Web Resource.
+&lt;a class=&#34;link&#34; href=&#34;https://mathworld.wolfram.com/FundamentalTheoremofArithmetic.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mathworld.wolfram.com/FundamentalTheoremofArithmetic.html&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -7,7 +7,7 @@ categories = [
     "Programming"
 ]
 tags = [
-    "dynamic_programming",
+    "DynamicProgramming",
     "LeetCode",
     "C"
 ]
