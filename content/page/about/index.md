@@ -27,8 +27,8 @@ around a hundred applications built with Java and C# and deployed manually or au
 scripting or Ansible.
 
 ## Independent Experience
-In my freetime I enjoy building language processing and system-level programs, desktop 
-and web applications, 2D game development, and additions or improvements to my homelab.
+I'm concurrently building language processing and system-level programs, desktop and web 
+applications, 2D game development, and additions or improvements to my homelab.
 
 My personal projects span from a C compiler written in Zig, a C++/QT Zettlekasten-inspired 
 note-taking application and text editor, a Rust operating system, a C#/Monogame Gauntlet-like 
@@ -63,5 +63,5 @@ Western Governors University, working toward my Bachelor of Science in Computer 
 
 ## Personal Hobbies
 I consistently engage in different types of fitness such as yoga, swimming, cycling, calisthenics, 
-weight-lifting, and bouldering. I enjoy playing guitar, learning to speak Spanish, and reading 
+weight-lifting, and bouldering. I enjoy playing guitar, learning new spoken languages, and reading 
 both fiction and non-fiction.
