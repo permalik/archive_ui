@@ -28,14 +28,16 @@ scripting or Ansible.
 
 ## Independent Experience
 In my freetime I enjoy building language processing and system-level programs, desktop 
-and web applications, and additions or improvements to my homelab.
+and web applications, programming-adjacent electrical engineering concepts, 2D game development 
+and additions or improvements to my homelab.
 
-I concurrently work on a C compiler written in Zig, C++/QT Zettlekasten-inspired note-taking 
-application and text editor, Rust operating system, Nix development environments, various 
-automation, and integration with local servers and PCs.
+My personal projects span from a C compiler written in Zig, a C++/QT Zettlekasten-inspired 
+note-taking application and text editor, a Rust operating system, a Gauntlet-like dungeon crawler 
+Nix development environments, various automation, and integrations with local servers and PCs.
 
 ## FOSS
-I'm eager to start contributing on a number of projects but have not as of yet.
+I'm eager to start contributing to a number of projects but have not as of yet. I plan to keep 
+building personal projects to first get better with my tools before branching out.
 
 ## Academic Experience
 I am self-teaching Algebra to prepare for Calculus. I am also completing classes with partners of 
