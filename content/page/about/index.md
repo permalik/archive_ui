@@ -35,6 +35,24 @@ note-taking application and text editor, a Rust operating system, a C#/Monogame 
 dungeon crawler, Nix development environments, various automation, and integrations with local 
 servers and PCs.
 
+## Homelab
+### Hardware
+My preferred machine is a MacBookAir. I mostly program within an Orb Stack virtualized NixOS 
+environment but step out into the standard system for various projects such as C# development. 
+I run an Ubuntu CI server on a minipc. I also have proper desktop currently running NixOS; it 
+badly needs updated hardware and configured to boot Fedora, NixOS, and Windows.
+
+I use a legend-less, split Kinesis Advantage 360 at home and various other QWERTY keyboards 
+(typically 65%) when I'm out.
+
+### Software
+I primarily work within a Neovim instance inside a Nix environment. Depending on the project, I 
+may also use a given JetBrains IDE or occasionally reach for Zed.
+
+Any notes or articles I write pass through the same pipeline: loosely aggregate ideas within a 
+single canvas, shape them in Scrivener, output the full thought in a markdown file and deploy to 
+a statically-generated Hugo site.
+
 ## FOSS
 I'm eager to start contributing to a number of projects but have not as of yet. I plan to keep 
 building personal projects to first get better with my tools before branching out.
