@@ -31,9 +31,9 @@ In my freetime I enjoy building language processing and system-level programs, d
 and web applications, 2D game development, and additions or improvements to my homelab.
 
 My personal projects span from a C compiler written in Zig, a C++/QT Zettlekasten-inspired 
-note-taking application and text editor, a Rust operating system, a Gauntlet-like dungeon 
-crawler, Nix development environments, various automation, and integrations with local servers 
-and PCs.
+note-taking application and text editor, a Rust operating system, a C#/Monogame Gauntlet-like 
+dungeon crawler, Nix development environments, various automation, and integrations with local 
+servers and PCs.
 
 ## FOSS
 I'm eager to start contributing to a number of projects but have not as of yet. I plan to keep 
