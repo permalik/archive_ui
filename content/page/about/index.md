@@ -38,7 +38,7 @@ servers and PCs.
 ## Homelab
 ### Hardware
 My preferred machine is a MacBookAir. I mostly program within an Orb Stack virtualized NixOS 
-environment but step out into the standard system for various projects such as C# development. 
+environment but step out into the standard system for circumstances such as C# development. 
 I run an Ubuntu CI server on a minipc. I also have proper desktop currently running NixOS; it 
 badly needs updated hardware and configured to boot Fedora, NixOS, and Windows.
 
