@@ -28,7 +28,7 @@ scripting or Ansible.
 
 ## Independent Experience
 I'm concurrently building language processing and system-level programs, desktop and web 
-applications, 2D game development, and additions or improvements to my homelab.
+applications, a 2D game, dronecraft computers, and additions or improvements to my homelab.
 
 My personal projects span from a C compiler written in Zig, a C++/QT Zettlekasten-inspired 
 note-taking application and text editor, a Rust operating system, a C#/Monogame Gauntlet-like 
