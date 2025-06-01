@@ -5,8 +5,12 @@ links:
     description: "Dynamic Programming"
     website: "https://leetcode.com/"
     image: "/leetcode.png"
+  - title: "Register Spill"
+    description: "Software: Articles"
+    website: "https://registerspill.thorstenball.com/"
+    image: "/tech.png"
   - title: "Shepherd's Oasis"
-    description: "Software: Shop + Blog"
+    description: "Software: Shop + Articles"
     website: "https://soasis.org/"
     image: "/tech.png"
 menu:
