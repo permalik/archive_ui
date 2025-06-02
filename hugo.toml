@@ -47,7 +47,7 @@ subtitle = "silent lifting mind"
 [params.sidebar.avatar]
 enabled = true
 local = true
-src = "phoenix.jpg"
+src = "self.jpg"
 
 [params.article]
 math = true
