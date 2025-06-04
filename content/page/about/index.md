@@ -27,12 +27,8 @@ around a hundred applications built with Java and C# and deployed manually or au
 scripting or Ansible.
 
 ## Independent Experience
-I'm concurrently building language processing and system-level programs, desktop and web 
-applications, a 2D game, dronecraft computers, and additions or improvements to my homelab.
-
-My personal projects span from a C compiler written in Zig, a C++/QT Zettlekasten-inspired 
-note-taking application and text editor, a Rust operating system, a C#/Monogame Gauntlet-like 
-dungeon crawler, Nix development environments, various automation, and integrations with local 
+I'm actively working on interpreters and compilers, from-scratch operating systems, a 2D game, 
+dronecraft flight software, Nix environments, various automation, and integrations with local 
 servers and PCs.
 
 ## Homelab
@@ -46,12 +42,13 @@ I use a legend-less, split Kinesis Advantage 360 at home and various other QWERT
 (typically 65%) when I'm out.
 
 ### Software
-I primarily work within a Neovim instance inside a Nix environment. Depending on the project, I 
-may also use a given JetBrains IDE or occasionally reach for Zed.
+My development environment is fractured between Neovim, Zed, and JetBrains depending on the 
+project and how I'm feeling.
 
-Any notes or articles I write pass through the same pipeline: loosely aggregate ideas within a 
-single canvas, shape them in Scrivener, output the full thought in a markdown file and deploy to 
-a statically-generated Hugo site.
+I gather and retain information using a consistent pipeline: catch ideas using quick 
+sticky-note-like notes or from handwritten notes, aggregate ideas within a single markdown page 
+in an Obsidian vault, shape ideas in Scrivener, then compose the ideas into a full, cogent thought. 
+The product is written as markdown and posted to my personal site.
 
 ## FOSS
 I'm eager to start contributing to a number of projects but have not as of yet. I plan to keep 
