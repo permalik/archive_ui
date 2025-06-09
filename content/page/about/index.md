@@ -29,23 +29,25 @@ around a hundred applications built with Java and C# and deployed manually or au
 scripting or Ansible.
 
 ## Independent Experience
-I'm actively working on a desktop application, interpreters and compilers, from-scratch operating 
-systems, a 2D game, dronecraft flight software, Nix environments, various automation, and 
-integrations with local servers and PCs.
+I'm actively working on a desktop application, an interpreter, a from-scratch operating system, 
+Nix environments, various automation, and integrations with local servers and PCs.
 
 ## Homelab
 ### Hardware
-My preferred machine is a MacBookAir. I mostly program within a linux virtual machine but step out 
-into the standard system for gui-dependent applications. I run an Ubuntu CI server on a 
-minipc. I also have proper desktop running Windows that I use for 2D game development.
+My preferred machine is a MacBookAir. I mostly program within a linux virtual machine or use 
+the standard system for gui-dependent applications. I run an Ubuntu server on a minipc for 
+CI pipelines. I also have proper desktop running Windows that I use for QT development.
 
-I use a legend-less, split Kinesis Advantage 360 at home and various other 65% keyboards when I'm out.
+I like my split Kinesis Advantage 360 and other 65% keyboards.
+
+I also have a preference for MX Master 3 mice.
 
 ### Software
-I primarily drive Neovim. I might pick up Zed or JetBrains depending on the project and how I'm feeling.
+I'm typically in Neovim. I might pick up Zed, JetBrains, or QT Creator depending on the project 
+and how I'm feeling.
 
 I capture and organize all ideas in Obsidian, shape them in Scrivener, and post the fully-realized 
-thoughts in a static Hugo site.
+thoughts to a static Hugo site.
 
 ## FOSS
 I'm eager to start contributing to a number of projects but have not as of yet.
