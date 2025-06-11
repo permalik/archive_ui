@@ -43,8 +43,8 @@ I like my split Kinesis Advantage 360 and other 65% keyboards.
 I also have a preference for MX Master 3 mice.
 
 ### Software
-I'm typically in Neovim. I might pick up Zed, JetBrains, or QT Creator depending on the project 
-and how I'm feeling.
+I'm typically in Neovim. I also use Zed, JetBrains, or QT Creator depending on the project and 
+how I'm feeling.
 
 I capture and organize all ideas in Obsidian, shape them in Scrivener, and post the fully-realized 
 thoughts to a static Hugo site.
@@ -58,4 +58,4 @@ Western Governors University, working toward my Bachelor of Science in Computer 
 
 ## Personal Hobbies
 I'm always up to something. Might be fitness such as yoga, swimming, cycling, calisthenics, 
-weight-lifting, or bouldering, playing guitar, learning new spoken languages, or reading.
+or weight-lifting, archery, playing guitar, learning new spoken languages, or reading.
