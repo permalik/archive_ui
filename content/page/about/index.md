@@ -34,8 +34,8 @@ Nix environments, various automation, and integrations with local servers and PC
 
 ## Homelab
 ### Hardware
-My preferred machine is a MacBookAir. I mostly program within a linux virtual machine or use 
-the standard system for gui-dependent applications. I run an Ubuntu server on a minipc for 
+My preferred machine is a MacBookAir. I work in a Parallels VM, an Orbstack VM, or use 
+the standard system depending on the project. I run an Ubuntu server on a minipc for my 
 CI pipelines. I also have proper desktop running Windows that I use for QT development.
 
 I like my split Kinesis Advantage 360 and other 65% keyboards.
